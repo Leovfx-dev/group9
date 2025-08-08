@@ -1,0 +1,253 @@
+Month,Brand,Model,Region,Price_USD,Sales_Units,Shipment_Units,Profit_Margin
+Jan 2024,Apple,Model 1,Africa,585,1284,1397,0.31
+Jan 2024,Apple,Model 18,Africa,1056,574,432,0.26
+Jan 2024,Apple,Model 16,Asia,899,1075,1145,0.28
+Jan 2024,Samsung,Model 1,Africa,708,875,709,0.46
+Jan 2024,Samsung,Model 6,Africa,1225,1121,1310,0.18
+Jan 2024,Samsung,Model 19,Africa,902,261,262,0.46
+Jan 2024,Xiaomi,Model 2,Asia,792,491,453,0.42
+Jan 2024,Xiaomi,Model 6,Africa,430,3199,3133,0.44
+Jan 2024,Xiaomi,Model 3,South America,1129,3204,3051,0.25
+Jan 2024,Oppo,Model 11,North America,1091,1584,1562,0.11
+Jan 2024,Oppo,Model 2,South America,763,4291,4478,0.46
+Jan 2024,Oppo,Model 4,Asia,1394,4736,4571,0.48
+Jan 2024,Vivo,Model 20,Asia,832,2775,2807,0.22
+Jan 2024,Vivo,Model 3,Europe,848,4513,4477,0.38
+Jan 2024,Vivo,Model 8,North America,883,763,877,0.23
+Jan 2024,OnePlus,Model 15,Africa,1448,3574,3499,0.16
+Jan 2024,OnePlus,Model 6,Asia,929,1833,1879,0.37
+Jan 2024,OnePlus,Model 4,South America,1407,4318,4372,0.42
+Jan 2024,Google,Model 13,North America,346,3319,3470,0.14
+Jan 2024,Google,Model 16,North America,1128,2059,1986,0.31
+Jan 2024,Google,Model 5,Africa,672,4161,4258,0.2
+Feb 2024,Apple,Model 8,Africa,827,4782,4694,0.16
+Feb 2024,Apple,Model 15,Europe,453,3283,3181,0.49
+Feb 2024,Apple,Model 18,South America,1077,4533,4526,0.38
+Feb 2024,Samsung,Model 6,Asia,1245,1793,1630,0.49
+Feb 2024,Samsung,Model 10,North America,637,3454,3280,0.42
+Feb 2024,Samsung,Model 2,Africa,483,1059,1175,0.3
+Feb 2024,Xiaomi,Model 16,North America,1192,1239,1229,0.22
+Feb 2024,Xiaomi,Model 2,Europe,1479,3494,3421,0.25
+Feb 2024,Xiaomi,Model 4,Europe,765,669,791,0.33
+Feb 2024,Oppo,Model 14,Africa,724,3050,3162,0.35
+Feb 2024,Oppo,Model 4,Asia,520,3947,4146,0.12
+Feb 2024,Oppo,Model 13,Asia,670,1266,1157,0.33
+Feb 2024,Vivo,Model 3,Asia,1066,4464,4633,0.31
+Feb 2024,Vivo,Model 14,Europe,856,219,337,0.27
+Feb 2024,Vivo,Model 2,North America,940,216,333,0.43
+Feb 2024,OnePlus,Model 10,Africa,353,1779,1664,0.11
+Feb 2024,OnePlus,Model 16,Africa,1292,3218,3111,0.44
+Feb 2024,OnePlus,Model 4,South America,652,3059,3076,0.41
+Feb 2024,Google,Model 12,Europe,715,3187,3266,0.48
+Feb 2024,Google,Model 9,Africa,696,995,954,0.48
+Feb 2024,Google,Model 18,South America,889,3846,4025,0.15
+Mar 2024,Apple,Model 7,Africa,1169,1725,1639,0.21
+Mar 2024,Apple,Model 18,Africa,1025,1616,1490,0.45
+Mar 2024,Apple,Model 6,South America,928,3448,3496,0.32
+Mar 2024,Samsung,Model 11,North America,1496,4052,3913,0.3
+Mar 2024,Samsung,Model 14,Africa,596,798,616,0.26
+Mar 2024,Samsung,Model 6,Africa,644,4271,4335,0.23
+Mar 2024,Xiaomi,Model 18,South America,597,3394,3315,0.28
+Mar 2024,Xiaomi,Model 8,Europe,434,4946,4821,0.38
+Mar 2024,Xiaomi,Model 10,South America,691,3424,3453,0.13
+Mar 2024,Oppo,Model 18,Europe,644,3023,3004,0.38
+Mar 2024,Oppo,Model 12,Africa,238,3622,3594,0.1
+Mar 2024,Oppo,Model 17,North America,1281,555,671,0.43
+Mar 2024,Vivo,Model 18,North America,246,1356,1460,0.38
+Mar 2024,Vivo,Model 2,Africa,1482,2803,2614,0.48
+Mar 2024,Vivo,Model 19,Africa,867,4568,4375,0.17
+Mar 2024,OnePlus,Model 7,Europe,589,355,351,0.35
+Mar 2024,OnePlus,Model 15,South America,209,2971,3056,0.45
+Mar 2024,OnePlus,Model 3,Europe,1228,1115,1203,0.41
+Mar 2024,Google,Model 16,South America,970,1560,1382,0.41
+Mar 2024,Google,Model 14,North America,913,4278,4222,0.2
+Mar 2024,Google,Model 8,North America,200,4246,4218,0.34
+Apr 2024,Apple,Model 5,South America,962,1948,1859,0.29
+Apr 2024,Apple,Model 14,Africa,1052,4081,3946,0.42
+Apr 2024,Apple,Model 9,Asia,937,1429,1326,0.35
+Apr 2024,Samsung,Model 11,Europe,1183,4264,4097,0.35
+Apr 2024,Samsung,Model 13,Asia,404,3918,3760,0.2
+Apr 2024,Samsung,Model 16,Asia,310,860,810,0.15
+Apr 2024,Xiaomi,Model 15,North America,733,623,768,0.46
+Apr 2024,Xiaomi,Model 1,Europe,1301,1853,1953,0.23
+Apr 2024,Xiaomi,Model 6,Asia,448,2361,2399,0.3
+Apr 2024,Oppo,Model 15,Africa,1082,1746,1783,0.4
+Apr 2024,Oppo,Model 12,South America,1497,2006,1820,0.14
+Apr 2024,Oppo,Model 14,Europe,227,813,651,0.23
+Apr 2024,Vivo,Model 16,South America,891,1861,1975,0.49
+Apr 2024,Vivo,Model 5,Africa,861,2424,2421,0.25
+Apr 2024,Vivo,Model 8,North America,1042,3617,3734,0.42
+Apr 2024,OnePlus,Model 17,South America,1046,2862,3053,0.29
+Apr 2024,OnePlus,Model 10,North America,525,1241,1364,0.27
+Apr 2024,OnePlus,Model 7,Europe,731,4308,4247,0.15
+Apr 2024,Google,Model 12,South America,1391,3813,3696,0.2
+Apr 2024,Google,Model 20,Asia,528,2932,2996,0.34
+Apr 2024,Google,Model 10,Europe,1318,1704,1821,0.4
+May 2024,Apple,Model 17,South America,1050,177,38,0.24
+May 2024,Apple,Model 10,Asia,1265,2236,2331,0.28
+May 2024,Apple,Model 7,North America,621,4770,4712,0.33
+May 2024,Samsung,Model 16,North America,677,1354,1310,0.16
+May 2024,Samsung,Model 20,Europe,1220,1050,1138,0.11
+May 2024,Samsung,Model 9,South America,716,1965,2117,0.14
+May 2024,Xiaomi,Model 7,Europe,210,3425,3554,0.24
+May 2024,Xiaomi,Model 6,Europe,501,462,657,0.46
+May 2024,Xiaomi,Model 1,Africa,1184,1739,1854,0.34
+May 2024,Oppo,Model 18,North America,1013,3576,3721,0.44
+May 2024,Oppo,Model 7,South America,1224,1954,1808,0.19
+May 2024,Oppo,Model 14,North America,1168,1432,1368,0.18
+May 2024,Vivo,Model 12,Europe,484,4258,4207,0.19
+May 2024,Vivo,Model 20,North America,1272,1066,1202,0.48
+May 2024,Vivo,Model 15,South America,347,3801,3942,0.13
+May 2024,OnePlus,Model 9,Asia,1367,3595,3413,0.13
+May 2024,OnePlus,Model 2,North America,1398,3157,3150,0.31
+May 2024,OnePlus,Model 4,Africa,313,3393,3358,0.41
+May 2024,Google,Model 9,South America,642,427,280,0.24
+May 2024,Google,Model 19,Asia,778,3775,3838,0.14
+May 2024,Google,Model 13,Europe,651,264,245,0.18
+Jun 2024,Apple,Model 6,South America,906,4666,4584,0.21
+Jun 2024,Apple,Model 8,South America,1004,1379,1400,0.25
+Jun 2024,Apple,Model 9,North America,1139,3677,3818,0.41
+Jun 2024,Samsung,Model 11,Europe,1332,2757,2771,0.37
+Jun 2024,Samsung,Model 1,Europe,327,4024,3865,0.33
+Jun 2024,Samsung,Model 5,South America,1240,4783,4669,0.14
+Jun 2024,Xiaomi,Model 3,South America,1018,4888,4979,0.41
+Jun 2024,Xiaomi,Model 11,Africa,348,3950,4045,0.27
+Jun 2024,Xiaomi,Model 15,Europe,1336,286,380,0.34
+Jun 2024,Oppo,Model 13,Europe,1240,1340,1200,0.38
+Jun 2024,Oppo,Model 6,Asia,224,4326,4354,0.1
+Jun 2024,Oppo,Model 12,Asia,301,2422,2322,0.14
+Jun 2024,Vivo,Model 16,North America,688,146,233,0.38
+Jun 2024,Vivo,Model 4,South America,1180,3257,3306,0.23
+Jun 2024,Vivo,Model 11,Asia,336,3030,3005,0.15
+Jun 2024,OnePlus,Model 13,Europe,1120,2869,2829,0.45
+Jun 2024,OnePlus,Model 16,Europe,1331,3621,3731,0.28
+Jun 2024,OnePlus,Model 9,Europe,613,4446,4492,0.17
+Jun 2024,Google,Model 20,Europe,202,3600,3541,0.22
+Jun 2024,Google,Model 6,North America,523,245,337,0.12
+Jun 2024,Google,Model 2,Africa,1148,2732,2930,0.25
+Jul 2024,Apple,Model 10,Europe,1084,3664,3829,0.19
+Jul 2024,Apple,Model 18,South America,1024,2365,2405,0.48
+Jul 2024,Apple,Model 1,Africa,253,826,802,0.31
+Jul 2024,Samsung,Model 12,North America,1187,1318,1343,0.44
+Jul 2024,Samsung,Model 19,Europe,239,1660,1720,0.39
+Jul 2024,Samsung,Model 7,South America,1183,1074,911,0.2
+Jul 2024,Xiaomi,Model 19,Africa,1485,4411,4357,0.45
+Jul 2024,Xiaomi,Model 15,North America,552,1804,1872,0.43
+Jul 2024,Xiaomi,Model 4,Africa,1393,4551,4541,0.38
+Jul 2024,Oppo,Model 6,Asia,494,2085,2108,0.13
+Jul 2024,Oppo,Model 14,Africa,1336,2164,2323,0.2
+Jul 2024,Oppo,Model 1,Europe,647,4870,4995,0.21
+Jul 2024,Vivo,Model 3,South America,673,3291,3300,0.45
+Jul 2024,Vivo,Model 8,South America,915,3847,3897,0.15
+Jul 2024,Vivo,Model 7,Asia,659,128,322,0.43
+Jul 2024,OnePlus,Model 5,South America,1048,3553,3588,0.11
+Jul 2024,OnePlus,Model 18,North America,220,4126,4009,0.26
+Jul 2024,OnePlus,Model 16,Europe,1480,4765,4944,0.39
+Jul 2024,Google,Model 10,Europe,548,1059,1039,0.46
+Jul 2024,Google,Model 19,North America,1098,626,578,0.1
+Jul 2024,Google,Model 13,North America,1459,1975,2002,0.32
+Aug 2024,Apple,Model 7,Africa,600,3036,2881,0.16
+Aug 2024,Apple,Model 15,Europe,872,813,854,0.23
+Aug 2024,Apple,Model 14,North America,424,2948,2980,0.24
+Aug 2024,Samsung,Model 9,North America,208,3244,3402,0.35
+Aug 2024,Samsung,Model 11,Africa,915,4011,3988,0.35
+Aug 2024,Samsung,Model 8,Africa,310,350,532,0.13
+Aug 2024,Xiaomi,Model 8,South America,949,3527,3499,0.17
+Aug 2024,Xiaomi,Model 13,Europe,894,2435,2541,0.16
+Aug 2024,Xiaomi,Model 14,Asia,861,4744,4895,0.32
+Aug 2024,Oppo,Model 18,South America,1146,4803,4707,0.28
+Aug 2024,Oppo,Model 13,Africa,1065,3911,3776,0.34
+Aug 2024,Oppo,Model 11,South America,494,4109,4151,0.34
+Aug 2024,Vivo,Model 16,South America,1204,4748,4865,0.14
+Aug 2024,Vivo,Model 9,Europe,213,4699,4729,0.24
+Aug 2024,Vivo,Model 14,Africa,1037,3316,3494,0.22
+Aug 2024,OnePlus,Model 9,Africa,1480,2460,2323,0.24
+Aug 2024,OnePlus,Model 16,South America,1344,3278,3252,0.37
+Aug 2024,OnePlus,Model 11,Africa,504,3668,3587,0.42
+Aug 2024,Google,Model 16,Europe,1282,1108,1086,0.12
+Aug 2024,Google,Model 7,Asia,475,2840,2881,0.49
+Aug 2024,Google,Model 18,North America,325,4165,4181,0.36
+Sep 2024,Apple,Model 17,North America,716,1618,1503,0.2
+Sep 2024,Apple,Model 9,Europe,510,2574,2487,0.2
+Sep 2024,Apple,Model 16,North America,502,4052,3927,0.15
+Sep 2024,Samsung,Model 16,North America,980,2732,2776,0.33
+Sep 2024,Samsung,Model 8,Africa,1170,1447,1344,0.26
+Sep 2024,Samsung,Model 19,Asia,218,3653,3534,0.45
+Sep 2024,Xiaomi,Model 2,Europe,301,3438,3592,0.17
+Sep 2024,Xiaomi,Model 16,Europe,1161,3089,3153,0.25
+Sep 2024,Xiaomi,Model 8,North America,527,2963,2879,0.43
+Sep 2024,Oppo,Model 9,North America,1214,4531,4633,0.13
+Sep 2024,Oppo,Model 8,South America,914,4246,4316,0.18
+Sep 2024,Oppo,Model 10,Africa,669,4982,5071,0.17
+Sep 2024,Vivo,Model 5,Europe,1158,2459,2499,0.33
+Sep 2024,Vivo,Model 20,North America,1151,135,18,0.29
+Sep 2024,Vivo,Model 11,South America,1395,1808,1969,0.14
+Sep 2024,OnePlus,Model 14,Africa,1283,3373,3517,0.14
+Sep 2024,OnePlus,Model 6,North America,1192,1562,1603,0.16
+Sep 2024,OnePlus,Model 7,South America,682,3279,3304,0.29
+Sep 2024,Google,Model 1,Africa,836,4108,4148,0.11
+Sep 2024,Google,Model 4,Europe,501,3702,3569,0.39
+Sep 2024,Google,Model 6,South America,487,1290,1198,0.13
+Oct 2024,Apple,Model 12,Asia,348,2923,2952,0.34
+Oct 2024,Apple,Model 14,Europe,1213,2528,2385,0.23
+Oct 2024,Apple,Model 18,Europe,926,2917,2818,0.32
+Oct 2024,Samsung,Model 6,South America,436,4543,4457,0.16
+Oct 2024,Samsung,Model 2,South America,1471,463,583,0.44
+Oct 2024,Samsung,Model 3,South America,1307,4137,4167,0.45
+Oct 2024,Xiaomi,Model 19,Asia,1034,1825,1778,0.34
+Oct 2024,Xiaomi,Model 18,Africa,605,2290,2431,0.33
+Oct 2024,Xiaomi,Model 15,Europe,689,4207,4245,0.26
+Oct 2024,Oppo,Model 1,North America,465,2085,2165,0.29
+Oct 2024,Oppo,Model 16,South America,363,194,263,0.16
+Oct 2024,Oppo,Model 20,South America,1098,2630,2819,0.16
+Oct 2024,Vivo,Model 7,Asia,486,2053,2118,0.18
+Oct 2024,Vivo,Model 1,Asia,889,2050,1905,0.22
+Oct 2024,Vivo,Model 16,Asia,1322,4344,4472,0.41
+Oct 2024,OnePlus,Model 12,South America,1286,1608,1523,0.26
+Oct 2024,OnePlus,Model 13,South America,682,2239,2052,0.17
+Oct 2024,OnePlus,Model 3,Asia,797,3816,3798,0.27
+Oct 2024,Google,Model 8,South America,899,2542,2532,0.3
+Oct 2024,Google,Model 20,Europe,709,645,496,0.2
+Oct 2024,Google,Model 3,South America,943,3904,3745,0.41
+Nov 2024,Apple,Model 13,Asia,399,178,320,0.31
+Nov 2024,Apple,Model 16,North America,780,2248,2055,0.12
+Nov 2024,Apple,Model 6,Asia,286,3556,3464,0.42
+Nov 2024,Samsung,Model 1,North America,567,3391,3527,0.22
+Nov 2024,Samsung,Model 20,Africa,528,3109,2957,0.2
+Nov 2024,Samsung,Model 10,Europe,368,4412,4589,0.29
+Nov 2024,Xiaomi,Model 14,Africa,323,3797,3874,0.21
+Nov 2024,Xiaomi,Model 7,South America,1395,3459,3432,0.11
+Nov 2024,Xiaomi,Model 3,North America,321,1667,1688,0.44
+Nov 2024,Oppo,Model 10,Asia,969,4408,4490,0.49
+Nov 2024,Oppo,Model 2,South America,287,560,637,0.32
+Nov 2024,Oppo,Model 18,South America,895,614,604,0.14
+Nov 2024,Vivo,Model 20,Asia,1233,1528,1711,0.43
+Nov 2024,Vivo,Model 19,Africa,1122,3237,3148,0.41
+Nov 2024,Vivo,Model 6,Africa,1131,2381,2270,0.44
+Nov 2024,OnePlus,Model 13,Europe,1243,2029,1852,0.19
+Nov 2024,OnePlus,Model 10,Africa,1021,2123,2281,0.1
+Nov 2024,OnePlus,Model 1,Africa,387,1180,999,0.26
+Nov 2024,Google,Model 9,Europe,410,4601,4552,0.23
+Nov 2024,Google,Model 18,South America,1197,3074,3229,0.31
+Nov 2024,Google,Model 1,Europe,939,4378,4290,0.27
+Dec 2024,Apple,Model 2,South America,801,3571,3695,0.17
+Dec 2024,Apple,Model 19,North America,337,2197,2255,0.11
+Dec 2024,Apple,Model 5,Asia,453,2857,2993,0.47
+Dec 2024,Samsung,Model 15,Africa,1209,3078,3006,0.41
+Dec 2024,Samsung,Model 16,North America,1008,785,900,0.15
+Dec 2024,Samsung,Model 7,Africa,1184,4743,4755,0.13
+Dec 2024,Xiaomi,Model 11,Europe,395,789,595,0.13
+Dec 2024,Xiaomi,Model 1,South America,871,1271,1213,0.45
+Dec 2024,Xiaomi,Model 19,South America,691,4059,4242,0.35
+Dec 2024,Oppo,Model 6,South America,526,697,785,0.31
+Dec 2024,Oppo,Model 16,North America,772,2190,2158,0.42
+Dec 2024,Oppo,Model 7,Europe,728,1733,1730,0.44
+Dec 2024,Vivo,Model 20,Europe,760,2179,2369,0.45
+Dec 2024,Vivo,Model 1,South America,582,1191,1356,0.4
+Dec 2024,Vivo,Model 12,Asia,278,1849,1764,0.45
+Dec 2024,OnePlus,Model 7,Europe,908,4502,4568,0.18
+Dec 2024,OnePlus,Model 5,South America,207,2655,2751,0.33
+Dec 2024,OnePlus,Model 18,Europe,1295,4754,4952,0.47
+Dec 2024,Google,Model 18,North America,459,3113,3278,0.13
+Dec 2024,Google,Model 9,South America,1013,4058,3873,0.5
+Dec 2024,Google,Model 14,Africa,1212,3704,3661,0.35
